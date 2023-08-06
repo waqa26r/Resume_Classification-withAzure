@@ -9,6 +9,18 @@
 
 # Resume Classification with Azure Services
 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: waqa26r](https://img.shields.io/badge/License-waqa26r-<COLOR>.svg)
+
+[License: waqa26r](https://github.com/waqa26r)
+
+
+-Blog [License: waqa26r](https://waqa26r.blogspot.com/)
+
+
+
+
 ## Overview
 
 This repository contains a project for classifying resumes based on the skills mentioned in them. The classification is done using Azure services and various technologies, including machine learning, big data analytics, and streamlit for GUI implementation. The main objective of this project is to help users quickly identify the category of a resume, such as Web Development, Machine Learning, or Big Data Analytics, by simply uploading the resume through the frontend.
