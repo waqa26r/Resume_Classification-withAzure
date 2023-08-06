@@ -1,0 +1,167 @@
+Entity: MOHAMMAD WAQAR Type: Product
+Entity: MOHAMMAD WAQAR Type: Person
+Entity: NIZAMUDDIN FAROOQUI Type: Person
+Entity: B.Tech. Type: Organization
+Entity: Information Technology Type: Skill
+Entity: 91 Type: Quantity
+Entity: 8459350521 Type: Quantity
+Entity: mohammad.waqar@mitaoe.ac.in Type: Email
+Entity: Pune Type: Location
+Entity: Maharashtra Type: Location
+Entity: India Type: Location
+Entity: - 412105 Type: Quantity
+Entity: LinkedIn Type: Organization
+Entity: https://www.linkedin.com/in/waqar-farooqui-37037922a/ Type: URL
+Entity: C++ Type: Skill
+Entity: Python Type: Skill
+Entity: DBMS Type: Organization
+Entity: Reactjs Type: Product
+Entity: student Type: PersonType
+Entity: Information Technology Type: Skill
+Entity: MIT Academy of Engineering Type: Organization
+Entity: programming Type: Skill
+Entity: five Type: Quantity
+Entity: Hacker Type: PersonType
+Entity: technologies Type: Skill
+Entity: software developer Type: PersonType
+Entity: Microsoft Type: Organization
+Entity: development Type: Skill
+Entity: technologies Type: Skill
+Entity: problem-solving Type: Skill
+Entity: continuous Type: Skill
+Entity: learning Type: Skill
+Entity: innovative Type: Skill
+Entity: EDUCATION Type: Skill
+Entity: 2020  -  2024 Type: DateTime
+Entity: MIT Academy of Engineering Type: Organization
+Entity: Pune Type: Location
+Entity: B.Tech. Type: Organization
+Entity: Information Technology Type: Skill
+Entity: 8.76 Type: Quantity
+Entity: 10.00 Type: Quantity
+Entity: 2020 Type: DateTime
+Entity: Huda Jr College of Science and Commerce Type: Organization
+Entity: Bhiwandi Type: Location
+Entity: 12th Type: Quantity
+Entity: MSBSHSE Type: Product
+Entity: Percentage Type: Quantity
+Entity: 60.77 Type: Quantity
+Entity: 100.00 Type: Quantity
+Entity: 2018 Type: DateTime
+Entity: Om Prakash Type: Person
+Entity: Agarwal Type: Location
+Entity: English High School Type: Organization
+Entity: Bhiwandi Type: Location
+Entity: 10th Type: Quantity
+Entity: MSBSHSE Type: Product
+Entity: Percentage Type: Quantity
+Entity: 76.20 Type: Quantity
+Entity: 100.00 Type: Quantity
+Entity: 01 Aug, 2022  -  29 Apr, 2023 Type: DateTime
+Entity: Mentor Type: PersonType
+Entity: Prajakta Ugale Type: Person
+Entity: 3 Type: Quantity
+Entity: Machine Learning Type: Skill
+Entity: Deep Learning Type: Skill
+Entity: Python Type: Skill
+Entity: textual queries Type: Skill
+Entity: deep learning Type: Skill
+Entity: Transformer model Type: Skill
+Entity: JSON Type: Skill
+Entity: matching Type: Skill
+Entity: query Type: Skill
+Entity: JSON Type: Skill
+Entity: text query Type: Skill
+Entity: video data Type: Skill
+Entity: modal retrieval Type: Skill
+Entity: user interaction Type: Skill
+Entity: user Type: Skill
+Entity: Streamlit library Type: Product
+Entity: user Type: PersonType
+Entity: user Type: PersonType
+Entity: implementing Type: Skill
+Entity: -to-video retrieval Type: Skill
+Entity: 22 Nov, 2022  -  16 Dec, 2022 Type: DateTime
+Entity: Attack Type: Event
+Entity: Mentor Type: PersonType
+Entity: Sunilkumar Bhagat Type: Person
+Entity: 3 Type: Quantity
+Entity: Python Type: Skill
+Entity: Distributed Denial of Service Type: Event
+Entity: DDoS Type: Event
+Entity: computer Type: Product
+Entity: website Type: Skill
+Entity: server Type: Product
+Entity: users Type: PersonType
+Entity: attack Type: Event
+Entity: website Type: Skill
+Entity: Linux Type: Product
+Entity: Windows Type: Product
+Entity: 05 Nov, 2022  -  23 Nov, 2022 Type: DateTime
+Entity: Mentor Type: PersonType
+Entity: Vinodini Gupta Type: Person
+Entity: 4 Type: Quantity
+Entity: Front-End Web Development Type: Skill
+Entity: MongoDB Framework Type: Product
+Entity: grocery Type: Location
+Entity: delivery Type: Skill
+Entity: user Type: PersonType
+Entity: user Type: PersonType
+Entity: 5 Type: Quantity
+Entity: Bansilal cloth shop Type: Location
+Entity: MIT Academy of Type: Organization
+Entity: Engineering Type: Skill
+Entity: Dehu Phata Type: Person
+Entity: Khed Type: Location
+Entity: Alandi Type: Location
+Entity: Pune Type: Location
+Entity: Maharashtra Type: Location
+Entity: India Type: Location
+Entity: Birth Type: Event
+Entity: 26 Jun, 2001 Type: DateTime
+Entity: Languages Type: Skill
+Entity: Hindi Type: Skill
+Entity: English Type: Skill
+Entity: House No Type: Location
+Entity: 2208 Type: Quantity
+Entity: E Type: Address
+Entity: -Wing Flat No.20 Type: Location
+Entity: .202 Type: Quantity
+Entity: 2, Type: Address
+Entity: Noor Type: Location
+Entity: Complex Gaibi Nagar Bhiwandi Type: Location
+Entity: Bhiwandi Type: Location
+Entity: Maharashtra Type: Location
+Entity: India Type: Location
+Entity: - 421302 Type: Quantity
+Entity: 91 Type: Quantity
+Entity: 8459350521 Type: Quantity
+Entity: 91 Type: Quantity
+Entity: 8459350521 Type: Quantity
+Entity: mohammad Type: Person
+Entity: mohammad.waqar@mitaoe.ac.in Type: Email
+Entity: waqarnizamuddin@gmail.comASSESSMENTS Type: Email
+Entity: Data Science Type: Skill
+Entity: 85.0 Type: Quantity
+Entity: 100.0 Type: Quantity
+Entity: Data Science Type: Skill
+Entity: 85.0 Type: Quantity
+Entity: 100.0 Type: Quantity
+Entity: Python Type: Skill
+Entity: certification course Type: Event
+Entity: IBM Type: Organization
+Entity: Coursera Type: Organization
+Entity: data science Type: Skill
+Entity: Hackathon Type: Event
+Entity: Inspiron 2.0 Type: Product
+Entity: 2.0 Type: Quantity
+Entity: National Level Hackathon Kavach Type: Event
+Entity: MITAOE Type: Organization
+Entity: college Type: Location
+Entity: Business Type: Skill
+Entity: Cricket Type: Skill
+Entity: Github Type: Product
+Entity: Github Type: Organization
+Entity: https://github.com/waqa26r Type: URL
+Entity: https://waqa26r.blogspot.com/ Type: URL
+Entity: PERSONAL Type: PersonType
